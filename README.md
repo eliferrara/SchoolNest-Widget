@@ -21,7 +21,7 @@ A lightweight Quickshell widget that displays your current school period and tim
 ### Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Ballistyxx/SchoolNest-Widget/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/eliferrara/SchoolNest-Widget/main/install.sh | bash
 ```
 
 Then follow the post-installation instructions to add the widget to your bar.
@@ -127,4 +127,4 @@ Remove the widget code from `BarContent.qml` and reload quickshell.
 
 ## License
 
-MIT
+AGPL-3.0
